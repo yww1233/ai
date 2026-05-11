@@ -1,0 +1,6 @@
+model: yolo11n.pt
+
+track:
+  conf: 0.5
+  iou: 0.5
+  tracker: bytetrack.yaml
